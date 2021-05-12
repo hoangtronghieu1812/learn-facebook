@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project này mới chỉ thực hiện 2 bước (như hình dưới) :
+1. Gọi đến modal đăng nhập facebook
+2. LẤy về thông tin email, name của người dùng trong database của facebook 
 
-Things you may want to cover:
+=> Bạn có thể sử dụng các thông tin trên để viết tiếp tính năng đăng nhập cho app của bạn
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# learn-facebook
+![motchutanhlinh](https://user-images.githubusercontent.com/43598873/117977816-68686500-b35b-11eb-9b95-4bbe33017847.gif)
